@@ -12,3 +12,8 @@ task 2:
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
+
+Assignment 2 task 1:
+1. Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
