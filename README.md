@@ -23,3 +23,11 @@ Assignment 2 task 2:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
 
+Assignment 3 task 1:
+1.  uses recursive function n * factorial(n-1) to calculate the factorial.
+
+Assignment 3 task 2:
+1.  import math module
+2.  sqrt, log and sin to calculate the required values 
+
+
