@@ -30,4 +30,15 @@ Assignment 3 task 2:
 1.  import math module
 2.  sqrt, log and sin to calculate the required values 
 
+Assignment 4 task 1:
+1.  Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors using try and except with FileNotFoundError
+
+Assignment 4 task 2:
+1.  Takes user input and writes it to a file named output.txt.
+2.  Appends additional data to the same file.
+3.  Reads and displays the final content of the file.
+
+
 
