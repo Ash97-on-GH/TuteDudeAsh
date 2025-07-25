@@ -1,6 +1,6 @@
 TuteDude Assignments 
 
-This repository contains task 1 and task 2 of assignment 1 in the python course.
+This repository contains tasks for Assignments 1 to 5.
 
 task1: 
 1. Takes two numbers as input from the user.
@@ -39,6 +39,19 @@ Assignment 4 task 2:
 1.  Takes user input and writes it to a file named output.txt.
 2.  Appends additional data to the same file.
 3.  Reads and displays the final content of the file.
+
+Assignment 5 task 1:
+1.   Creates a dictionary where student names are keys and their marks are values.
+2.   Asks the user to input a student's name.
+3.   Retrieves and displays the corresponding marks.
+4.   If the student’s name is not found, display an appropriate message.
+
+Assignment 5 task 2:
+1.   Creates a list of numbers from 1 to 10.
+2.   Extracts the first five elements from the list.
+3.   Reverses these extracted elements.
+4.   Prints both the extracted list and the reversed list
+
 
 
 
